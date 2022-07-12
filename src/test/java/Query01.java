@@ -19,6 +19,8 @@ public class Query01 {
 
         //5) sonuçları al
 
+
+
         while (veri.next()){
 
             // index kullanarak
